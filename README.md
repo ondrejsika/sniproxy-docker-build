@@ -3,7 +3,7 @@
 - author: Ondrej Sika <ondrej@ondrejsika.com>
 - license: MIT <https://ondrejsika.com/license/mit.txt>
 
-Sniproxy soorce: <https://github.com/dlundquist/sniproxy>
+Sniproxy source: <https://github.com/dlundquist/sniproxy>
 
 ## Build Sniproxy
 
